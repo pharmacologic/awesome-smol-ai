@@ -115,7 +115,8 @@ Pre-trained lightweight models ready for deployment:
 - [Edge AI Foundation](https://www.edgeaifoundation.org/)
 
 ## **AI News & Announcements**
-- **<img src="./resources/new_tag.png" alt="new" width="30" height="30"/>[2024/11/26]** [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
+- **<img src="./resources/new_tag.png" alt="new" width="30" height="30"/>[2025/04/09]** [Where AI Is Now: Smaller, Better, Cheaper Models | Scientific American](https://www.scientificamerican.com/article/ai-report-highlights-smaller-better-cheaper-models/)
+- **[2024/11/26]** [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
 - **[2024/09/25]** [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
 - **[2024/07/16]** [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
 - **[2024/04/23]** [Introducing Phi-3: Redefining what’s possible with SLMs](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
