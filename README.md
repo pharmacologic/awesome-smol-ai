@@ -116,6 +116,7 @@ Pre-trained lightweight models ready for deployment:
 
 ## **AI News & Announcements**
 - **<img src="./resources/new_tag.png" alt="new" width="30" height="30"/>[2025/04/09]** [Where AI Is Now: Smaller, Better, Cheaper Models | Scientific American](https://www.scientificamerican.com/article/ai-report-highlights-smaller-better-cheaper-models/)
+- **<img src="./resources/new_tag.png" alt="new" width="30" height="30"/>[2025/03/12]** [Introducing Gemma 3: The most capable model you can run on a single GPU or TPU](https://blog.google/technology/developers/gemma-3/)
 - **[2024/11/26]** [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
 - **[2024/09/25]** [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
 - **[2024/07/16]** [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
